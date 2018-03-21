@@ -1,3 +1,4 @@
+package core;
 import javafx.application.Application;
 import javafx.scene.layout.GridPane;
 import javafx.scene.layout.StackPane;
